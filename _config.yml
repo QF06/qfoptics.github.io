@@ -1,3 +1,28 @@
+title: Qingfeng Li
+description: Optics • Photonics •  Optical Engineering • Laser
 theme: jekyll-theme-minimal
-title: Qingfeng Li's homepage
-description: Bookmark this to keep an eye on my updates!
+
+# If you ever bind a custom domain, set it here:
+# url: https://your-domain.com
+
+# Basic identity
+author: Qingfeng Li
+email: liqingfeng06@gmail.com
+
+# Social (used by SEO + theme metadata)
+github_username: QF06
+linkedin_username: qingfeng-li-optics   # <-- 改成你真实的 LinkedIn 用户名（没有就删掉这一行）
+
+# SEO (GitHub Pages supports these common plugins)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: make markdown nicer
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: exclude files you don't want to publish
+exclude:
+  - README.md

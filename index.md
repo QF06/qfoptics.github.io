@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/QF06/qf06.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Qingfeng Li
+<img src="assets/avatar.jpg" width="140" style="border-radius: 16px;">
+- CV: [Download PDF](assets/CV.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Optics & Photonics & Laser | Computational Modeling | AI-assisted Optical Engineering**
 
-### Markdown
+I build models and tools for optical field propagation, focusing systems, and practical simulation workflows.
+My current interests include **vectorial focusing**, **physical optics simulation**, **photonic integrated circuits (PICs)**, and **automation / AI for lab & engineering**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- GitHub: [QF06](https://github.com/QF06)
+- Email: <liqingfeng06@gmail.com>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Focus
 
-- Bulleted
-- List
+- **Physical Optics & Vectorial Field Modeling** (focusing, propagation, aberrations, structured beams)
+- **Computational Imaging / Simulation Tooling** (fast forward models, benchmarking, reproducibility)
+- **PIC / Integrated Photonics** (testing workflows, applications, demos)
+- **AI for Optical Engineering** (assistive workflows, automation, data-driven modeling)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Highlight Projects
 
-[Link](url) and ![Image](src)
-```
+### InFocus — Vectorial model for volumetric field near focus
+Open-source, user-friendly, flexible, and benchmarked model for fast vectorial analysis of the volumetric field distribution of light near focus.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Repo: https://github.com/QF06/InFocus
 
-### Jekyll Themes
+**Recommended citation**  
+Q. Li, M. Chambonneau, M. Blothe, H. Gross, S. Nolte, “Flexible, fast, and benchmarked vectorial model for focused laser beams,” *Applied Optics* 60(13), 3954–3963 (2021). https://doi.org/10.1364/AO.421945
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QF06/qf06.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### (Add) PIC Demo / Test Station (optional)
+Short description of what you did, what problem it solves, and what your role was.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Link: (your link here)
+
+---
+
+### (Add) Other work
+A short list is fine:
+- Project A — one-line value + link
+- Project B — one-line value + link
+
+---
+
+## Publications (selected)
+
+- **Flexible, fast, and benchmarked vectorial model for focused laser beams** — *Applied Optics* (2021). https://doi.org/10.1364/AO.421945
+
+(Add more items here if you want.)
+
+---
+
+## Contact
+
+If you’d like to collaborate on optics simulation, modeling, or related tooling, feel free to reach out:
+
+📧 **liqingfeng06@gmail.com**
