@@ -1,66 +1,40 @@
 ---
-layout: default
+title: "About"
+layout: single
+permalink: /
+author_profile: true
 ---
 
-# Qingfeng Li
-<img src="assets/Avatar.png" width="140" style="border-radius: 16px;">
-- CV: [Download PDF](assets/Lebenslauf_202403_QL_en.pdf.pdf)
+## Hi, I'm Qingfeng 👋
 
-**Optics & Photonics & Laser | Computational Modeling | AI-assisted Optical Engineering**
+I work on **optics and photonics**, with a focus on **vectorial field modeling**,
+**computational optics**, and **AI-assisted optical engineering**.
 
-I build models and tools for optical field propagation, focusing systems, and practical simulation workflows.
-My current interests include **vectorial focusing**, **physical optics simulation**, **photonic integrated circuits (PICs)**, and **automation / AI for lab & engineering**.
+My interests include:
 
-- GitHub: [QF06](https://github.com/QF06)
-- Email: <liqingfeng06@gmail.com>
-
----
-
-## Focus
-
-- **Physical Optics & Vectorial Field Modeling** (focusing, propagation, aberrations, structured beams)
-- **Computational Imaging / Simulation Tooling** (fast forward models, benchmarking, reproducibility)
-- **PIC / Integrated Photonics** (testing workflows, applications, demos)
-- **AI for Optical Engineering** (assistive workflows, automation, data-driven modeling)
+- Physical optics & vectorial focusing
+- Computational modeling and simulation tooling
+- Photonic integrated circuits (PICs)
+- Automation and AI for optical engineering
 
 ---
 
-## Highlight Projects
+## Highlight Project
 
-### InFocus — Vectorial model for volumetric field near focus
-Open-source, user-friendly, flexible, and benchmarked model for fast vectorial analysis of the volumetric field distribution of light near focus.
+### InFocus — Vectorial field modeling near focus
 
-- Repo: https://github.com/QF06/InFocus
+A fast, flexible, and benchmarked vectorial model for volumetric optical fields near focus.
+
+- GitHub: https://github.com/QF06/InFocus
 
 **Recommended citation**  
-Q. Li, M. Chambonneau, M. Blothe, H. Gross, S. Nolte, “Flexible, fast, and benchmarked vectorial model for focused laser beams,” *Applied Optics* 60(13), 3954–3963 (2021). https://doi.org/10.1364/AO.421945
-
----
-
-### (Add) PIC Demo / Test Station (optional)
-Short description of what you did, what problem it solves, and what your role was.
-
-- Link: (your link here)
-
----
-
-### (Add) Other work
-A short list is fine:
-- Project A — one-line value + link
-- Project B — one-line value + link
-
----
-
-## Publications (selected)
-
-- **Flexible, fast, and benchmarked vectorial model for focused laser beams** — *Applied Optics* (2021). https://doi.org/10.1364/AO.421945
-
-(Add more items here if you want.)
+Q. Li *et al.*,  
+“Flexible, fast, and benchmarked vectorial model for focused laser beams,”  
+*Applied Optics* **60**(13), 3954–3963 (2021)  
+https://doi.org/10.1364/AO.421945
 
 ---
 
 ## Contact
-
-If you’d like to collaborate on optics simulation, modeling, or related tooling, feel free to reach out:
 
 📧 **liqingfeng06@gmail.com**

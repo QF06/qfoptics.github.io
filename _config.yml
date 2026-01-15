@@ -1,28 +1,56 @@
+# --------------------------
+# Site Settings
+# --------------------------
 title: Qingfeng Li
-description: Optics • Photonics •  Optical Engineering • Laser
-theme: jekyll-theme-minimal
+subtitle: Optics • Photonics • Computational Modeling • AI
+name: Qingfeng Li
+description: >
+  Optics and photonics engineer working on vectorial field modeling,
+  computational optics, and AI-assisted optical engineering.
 
-# If you ever bind a custom domain, set it here:
-# url: https://your-domain.com
+url: https://qf06.github.io
+baseurl: /qfoptics.github.io
 
-# Basic identity
-author: Qingfeng Li
-email: liqingfeng06@gmail.com
+# --------------------------
+# Theme
+# --------------------------
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default  # try: air, contrast, dark, neon
 
-# Social (used by SEO + theme metadata)
-github_username: QF06
-linkedin_username: qingfeng-li-optics   # <-- 改成你真实的 LinkedIn 用户名（没有就删掉这一行）
-
-# SEO (GitHub Pages supports these common plugins)
+# --------------------------
+# Plugins (GitHub Pages compatible)
+# --------------------------
 plugins:
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Optional: make markdown nicer
-markdown: kramdown
-kramdown:
-  input: GFM
+# --------------------------
+# Author
+# --------------------------
+author:
+  name: Qingfeng Li
+  avatar: /assets/avatar.jpg   # 可选
+  bio: >
+    Optics & photonics engineer focusing on computational modeling,
+    PIC systems, and AI-assisted workflows.
+  location: Germany
+  email: liqingfeng06@gmail.com
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/QF06
+    # - label: LinkedIn
+    #   icon: fab fa-linkedin
+    #   url: https://linkedin.com/in/your-id
 
-# Optional: exclude files you don't want to publish
-exclude:
-  - README.md
+# --------------------------
+# Defaults
+# --------------------------
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
