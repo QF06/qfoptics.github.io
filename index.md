@@ -3,8 +3,13 @@ layout: default
 ---
 
 # Qingfeng Li
+<<<<<<< HEAD
 <img src="assets/Avatar.png" width="140" style="border-radius: 16px;">
 - CV: [Download PDF](assets/Lebenslauf_202403_QL_en.pdf.pdf)
+=======
+<img src="assets/avatar.png" width="140" style="border-radius: 16px;">
+- CV: [Download PDF](assets/Lebenslauf_202403_QL_en.pdf)
+>>>>>>> 18bbb46ecebdd8785c0cd2b06f7839765eec0f1a
 
 **Optics & Photonics & Laser | Computational Modeling | AI-assisted Optical Engineering**
 
